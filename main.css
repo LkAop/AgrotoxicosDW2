@@ -1,0 +1,28 @@
+body {
+    font-weight: 300 !important;
+}
+
+#footer-site {
+    background-color: #30AEE3 !important;
+}
+
+.content-title {
+    border: solid;
+    border-width: 0 0 2px 0;
+    margin-bottom: 5%;
+}
+
+.title-secondary {
+    font-size: 25px;
+    font-weight: 400 !important;
+}
+
+.title-primary {
+    font-size: 30px;
+    font-weight: bold !important;
+
+}
+
+.content-body {
+    text-align: justify;
+}
